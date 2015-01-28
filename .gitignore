@@ -1,5 +1,11 @@
 *.class
-
+.classpath
+.project
+.metadata
+.settings/*
+.recommenders/
+*.nxd
+*.nxj
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
